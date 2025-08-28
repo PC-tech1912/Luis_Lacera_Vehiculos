@@ -3,8 +3,8 @@
 //https://github.com/PC-tech1912/Luis_Lacera_Vehiculos.git
 
 Vehiculos vehiculo = new Vehiculos();
-vehiculo.color = "rojo";
-vehiculo.placa = "1234";
+vehiculo.color = "verde";
+vehiculo.placa = "hj89848";
 vehiculo.color = "azul";
 vehiculo.modelo = "Audi";
 vehiculo.estado = true;
