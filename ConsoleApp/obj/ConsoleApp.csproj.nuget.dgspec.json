@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\Consoleapp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\Consoleapp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\Consoleapp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\Consoleapp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\luisl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\luisl\\Luis_Lacera_Vehiculos\\Consoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisl\\AppData\\Roaming\\NuGet\\NuGet.Config"

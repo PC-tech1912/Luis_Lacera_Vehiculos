@@ -12,3 +12,4 @@ C:\Users\luisl\Luis_Lacera_Vehiculos\ConsoleApp\obj\Debug\net9.0\refint\ConsoleA
 C:\Users\luisl\Luis_Lacera_Vehiculos\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Users\luisl\Luis_Lacera_Vehiculos\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\luisl\Luis_Lacera_Vehiculos\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+C:\Users\luisl\Luis_Lacera_Vehiculos\Consoleapp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
